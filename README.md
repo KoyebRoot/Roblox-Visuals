@@ -13,3 +13,4 @@ How to download pymeow?
 ~ Done
 
 Note: May take a little longer than expected to "Read offsets", once it's finished the esp will show up on your screen.
+~ Offsets are automatically downloaded to ensure ESP is always working
